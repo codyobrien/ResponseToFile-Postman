@@ -1,6 +1,6 @@
 # Updates to write responses to CSV and append CSV 
 
-This fork contains edits to script.js and the POstman collection Tests script to effectively write and append JSON responses to CSV.
+This fork contains edits to script.js and the Postman collection Tests script to effectively write and append JSON responses to CSV.
 
 For the updated Postman collection, click the button below. The other instructions should remain unchanged.
 
